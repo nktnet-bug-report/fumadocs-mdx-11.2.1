@@ -1,4 +1,4 @@
-# Fumadocs MDX v11.2.2 - Regression error from v11.2.1
+# Fumadocs MDX v11.2.1 - Regression error from v11.2.0
 
 This repository was made using the command
 ```sh
